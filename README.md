@@ -12,3 +12,13 @@ This Repository Consits of the following Algorithms:
 - N-Layer Neural Network Classification
 
 This Repository also consits of the required **CSV Files** for running the code
+
+### This Repository is created by :
+
+**Name :** M Naveen Kumar
+
+**Registration No :** 22JE0529
+
+**Contact No :** 9740978147
+
+**mail id :** 22je0529@iitism.ac.in
